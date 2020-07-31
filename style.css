@@ -111,15 +111,19 @@ body {
 }
 
 .skill-html {
+  margin-left: 270px;
   background-image: url("img/icon-html.svg");
 }
 
 .skill-css {
+  margin-left: 270px;
   background-image: url("img/icon-css.svg");
 }
 
 .level {
   margin: 4px 0 16px;
+  margin-left: 270px;
+  margin-right: 270px;
   padding: 0;
   height: 14px;
   font-size: 0;
@@ -159,6 +163,8 @@ body {
 }
 
 .button {
+  margin-left: 270px;
+  margin-bottom: 50px;
   padding: 6px 20px;
   display: inline-block;
   vertical-align: baseline;
@@ -190,4 +196,8 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
+}
+
+h3 {
+  text-align: center;
 }
